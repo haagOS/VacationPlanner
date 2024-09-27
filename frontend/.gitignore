@@ -1,0 +1,6 @@
+.DS_Store
+.env.*
+/test-results/
+build
+dist
+node_modules
